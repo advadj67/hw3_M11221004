@@ -1,0 +1,26 @@
+<annotation>
+	<folder>驗證集</folder>
+	<filename>image_0393.jpg</filename>
+	<path>E:\貨櫃訓練資料\yolov4(1)_資料\驗證集\image_0393.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>832</xmin>
+			<ymin>233</ymin>
+			<xmax>1051</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

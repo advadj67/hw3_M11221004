@@ -1,0 +1,26 @@
+<annotation>
+	<folder>訓練集</folder>
+	<filename>image_0938.jpg</filename>
+	<path>E:\貨櫃訓練資料\yolov4(1)_資料\訓練集\image_0938.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>584</xmin>
+			<ymin>37</ymin>
+			<xmax>735</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>

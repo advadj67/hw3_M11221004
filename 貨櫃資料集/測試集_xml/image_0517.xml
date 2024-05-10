@@ -1,0 +1,26 @@
+<annotation>
+	<folder>測試集</folder>
+	<filename>image_0517.jpg</filename>
+	<path>E:\貨櫃訓練資料\yolov4(1)_資料\測試集\image_0517.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>644</xmin>
+			<ymin>520</ymin>
+			<xmax>1231</xmax>
+			<ymax>735</ymax>
+		</bndbox>
+	</object>
+</annotation>
